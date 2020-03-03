@@ -4,7 +4,7 @@
 ## gitlab runner vm ssh 로그인
 - IP :  
 - ID : ubuntu
-- PW : VMware1!
+
 
 ```
 cd /srv
